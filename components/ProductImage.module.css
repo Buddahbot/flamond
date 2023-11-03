@@ -1,0 +1,8 @@
+.imageAlign {
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 100px;
+padding-bottom: 100px;
+border: 1px solid #d8e2dc;
+}

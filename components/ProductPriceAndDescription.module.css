@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.colDescription {
+  display: flex;
+}
+
+.colPrice {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.buttonWrapper {
+ padding-left: 60px;
+  padding-right: 60px;
+}

@@ -1,0 +1,13 @@
+.backgroundHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d8e2dc;
+  height: 100px;
+  border-top-left-radius: 10px; 
+  border-top-right-radius: 10px;
+  width: 30vw;
+  min-width: 580px;
+}
+
+

@@ -1,0 +1,11 @@
+.backgroundFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d8e2dc;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
